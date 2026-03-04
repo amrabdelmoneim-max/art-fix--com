@@ -1,0 +1,75 @@
+<body>
+
+<header>
+    <div class="container navbar">
+        <div class="logo">ART FIX</div>
+        <div class="nav-links">
+            <a href="#">Home</a>
+            <a href="#contact">Contact</a>
+        </div>
+    </div>
+</header>
+
+<main>
+
+    <!-- HERO SECTION -->
+    <section class="hero">
+        <div class="container">
+            <h1>Professional <span>Mobile Repair</span> Services</h1>
+            <p>Software – Hardware – Screen Replacement – All Mobile Fixes</p>
+            <a href="#contact" class="btn">Contact Now</a>
+        </div>
+    </section>
+
+    <!-- CONTACT SECTION -->
+    <section id="contact" class="container">
+        <div class="contact-container">
+
+            <!-- LEFT SIDE: CONTACT INFO -->
+            <div class="contact-info">
+                <h3>Get In Touch</h3>
+
+                <div class="contact-item">
+                    <div class="contact-icon">📱</div>
+                    <div class="contact-details">
+                        <h4>Software</h4>
+                        <p>01040885185</p>
+                    </div>
+                </div>
+
+                <div class="contact-item">
+                    <div class="contact-icon">🔧</div>
+                    <div class="contact-details">
+                        <h4>Hardware</h4>
+                        <p>01099284312</p>
+                    </div>
+                </div>
+
+                <div class="map-placeholder">
+                    <img src="images/location.png" alt="Location" style="max-width:100%; border-radius:10px;">
+                </div>
+
+            </div>
+
+            <!-- RIGHT SIDE: CONTACT FORM -->
+            <div class="contact-form">
+                <input type="text" placeholder="Your Name">
+                <input type="email" placeholder="Your Email">
+                <textarea rows="5" placeholder="Your Message"></textarea>
+                <button class="btn">Send Message</button>
+            </div>
+
+        </div>
+    </section>
+
+</main>
+
+<footer>
+    <div class="container">
+        <p class="copyright">
+            © 2026 ART FIX - All Rights Reserved
+        </p>
+    </div>
+</footer>
+
+</body>
